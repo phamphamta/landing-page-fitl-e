@@ -73,8 +73,11 @@ npm run dev
 Your site will be running at http://localhost:3000
 .
 
-💻 Code Snippets
-Theme Store (using Zustand and persist)
+## 💻 Code Snippets
+
+### Theme Store (using Zustand and persist)
+
+```tsx
 import { create } from "zustand";
 import { persist } from "zustand/middleware";
 
@@ -119,8 +122,11 @@ const useThemeStore = create<ThemeStore>()(
 );
 
 export default useThemeStore;
+```
 
-Custom Button Component with Animation
+### Custom Button Component with Animation
+
+```tsx
 import React from "react";
 
 interface ButtonProps {
@@ -139,6 +145,8 @@ export const Button: React.FC<ButtonProps> = ({ onClick, children, className = "
     </button>
   );
 };
+```
+
 
 🎨 Assets & More
 
