@@ -1,5 +1,5 @@
 FitLife Fitness App Landing Page Tutorial
-<div align="center"> <br /> <a href="https://youtu.be/qeCBBxZoqAM" target="_blank"> <img src="./banner.png" alt="Project Banner"> </a> <br /> <div> <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript" alt="TypeScript" /> <img src="https://img.shields.io/badge/-Zustand-000?style=for-the-badge" alt="Zustand" /> </div> <h3 align="center">Build a Modern Landing Page for Your Fitness App</h3> <div align="center"> Follow along with our detailed tutorial on <a href="https://youtu.be/qeCBBxZoqAM" target="_blank"><b>YouTube</b></a> </div> <br /> </div>
+
 📋 Table of Contents
 
 Introduction
