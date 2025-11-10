@@ -61,7 +61,6 @@ npm
 
 Cloning the Repository
 git clone https://github.com/phamphamta/landing-page-fitl-e.git
-cd fitness-app-landing-page
 
 Installing Dependencies
 npm install
